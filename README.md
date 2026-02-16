@@ -1,1 +1,0 @@
-college event handling page 
